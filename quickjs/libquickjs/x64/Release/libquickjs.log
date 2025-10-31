@@ -1,0 +1,323 @@
+﻿  cutils.c
+  libregexp.c
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\cutils.c(53,11): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\cutils.c(242,14): warning C4244: "return": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\cutils.c(310,11): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(402,23): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(411,23): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(460,12): warning C4244: "return": konwersja z "uint64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1227,39): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1252,47): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1276,51): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1288,67): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1314,43): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1425,47): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1435,39): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1455,39): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1540,68): warning C4267: "funkcja": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1548,69): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1561,78): warning C4267: "funkcja": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1568,41): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1629,43): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1642,43): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1701,25): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1707,33): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1720,33): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1839,67): warning C4267: "funkcja": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1847,53): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(1861,25): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(2030,21): warning C4267: "=": konwersja z "size_t" do "uint8_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(2284,25): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libregexp.c(2485,11): warning C4244: "=": konwersja z "intptr_t" do "int", możliwa utrata danych
+  libunicode.c
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libunicode.c(696,28): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\libunicode.c(907,26): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  quickjs.c
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(1535,25): warning C4244: "return": konwersja z "uintptr_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(2019,33): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(2119,21): warning C4244: "=": konwersja z "uint64_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(2169,18): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(2234,18): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(2275,15): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(2724,34): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(2730,30): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3056,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3069,18): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3073,18): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3114,11): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3154,23): warning C4244: "inicjowanie": konwersja z "uint16_t" do "uint8_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3182,40): warning C4244: "=": konwersja z "uint16_t" do "uint8_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3256,19): warning C4267: "+=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3287,33): warning C4267: "funkcja": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3364,46): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3417,43): warning C4244: "=": konwersja z "const uint16_t" do "uint8_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3427,58): warning C4267: "funkcja": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3549,58): warning C4267: "funkcja": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3551,40): warning C4267: "funkcja": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3553,42): warning C4267: "funkcja": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3559,48): warning C4244: "funkcja": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3605,12): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3606,12): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3727,22): warning C4244: "=": konwersja z "__int64" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(3943,34): warning C4244: "funkcja": konwersja z "uintptr_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(4063,43): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(4088,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(4141,37): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(4809,18): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(4821,18): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(5606,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(5637,55): warning C4244: "+=": konwersja z "double" do "int64_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(5638,69): warning C4244: "+=": konwersja z "double" do "int64_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(5771,20): warning C4244: "=": konwersja z "double" do "int64_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(5772,19): warning C4244: "=": konwersja z "double" do "int64_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(5773,24): warning C4244: "=": konwersja z "double" do "int64_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(5774,23): warning C4244: "=": konwersja z "double" do "int64_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(5775,28): warning C4244: "=": konwersja z "double" do "int64_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(5776,32): warning C4244: "=": konwersja z "double" do "int64_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(5777,31): warning C4244: "=": konwersja z "double" do "int64_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(5781,26): warning C4244: "+=": konwersja z "double" do "int64_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(5809,48): warning C4267: "inicjowanie": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(5812,38): warning C4267: "inicjowanie": konwersja z "size_t" do "unsigned int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(5970,24): warning C4244: "return": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(6029,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(6107,77): warning C4244: "funkcja": konwersja z "__int64" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(6111,77): warning C4244: "funkcja": konwersja z "__int64" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(6981,30): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(7056,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(7068,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(7397,64): warning C4244: "funkcja": konwersja z "int64_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(7399,66): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(7427,63): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(7508,19): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(7551,31): warning C4244: "=": konwersja z "__int64" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(7645,28): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(7666,19): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(7754,27): warning C4267: "+=": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(8177,43): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(8228,68): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(8418,29): warning C4244: "=": konwersja z "__int64" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(9121,64): warning C4244: "funkcja": konwersja z "int64_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(9417,14): warning C4244: "return": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(9592,13): warning C4244: "=": konwersja z "uint64_t" do "double", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(9630,21): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(10858,18): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(10968,48): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(10998,26): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(13833,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(13847,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(13898,25): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(14284,24): warning C4244: "+=": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(16009,58): warning C4244: "funkcja": konwersja z "__int64" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(16019,49): warning C4244: "funkcja": konwersja z "__int64" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(16032,21): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(16590,47): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(16618,53): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(16660,47): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(16697,47): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(20029,29): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(20064,31): warning C4267: "+=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(20090,69): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(20091,44): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(20124,27): warning C4267: "+=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(20270,31): warning C4267: "+=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(20334,27): warning C4267: "+=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(20397,27): warning C4267: "+=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(20424,27): warning C4267: "+=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(21433,38): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(21710,42): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(22310,40): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(22324,41): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(24309,38): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(24385,38): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(24460,49): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(24454,31): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(24821,50): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(24832,46): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(24851,57): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(24960,69): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(24845,39): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(25312,27): warning C4267: "+=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(25487,17): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(26934,66): warning C4267: "funkcja": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(26941,18): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(27420,27): warning C4267: "+=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(28123,45): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(28834,38): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29029,40): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29173,12): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29401,38): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29483,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29506,34): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29538,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29543,43): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29574,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29629,39): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29639,35): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29649,57): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29658,57): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29681,44): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29684,53): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29706,43): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29711,39): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29716,48): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29719,57): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29742,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29750,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29797,51): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29814,43): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29826,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29839,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29859,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29890,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29904,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29912,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29931,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29959,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29982,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29993,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30014,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30028,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30035,43): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30046,43): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30061,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30066,43): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30092,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30099,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30108,47): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30136,55): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30145,55): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30157,51): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30170,39): warning C4267: "funkcja": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30229,56): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(29663,51): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30302,27): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30304,27): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30437,27): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30595,35): warning C4267: "+=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30604,37): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(30662,43): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(31271,46): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(31296,37): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(31822,14): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(31826,14): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(31841,31): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(31855,31): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(31989,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(32217,59): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(32354,25): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(32602,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(32649,16): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(33206,18): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(33225,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(33239,32): warning C4267: "+=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(33292,28): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(35355,44): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(35388,44): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(35400,66): warning C4244: "funkcja": konwersja z "int64_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(35634,36): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(35683,68): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(35706,36): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(35886,28): warning C4244: "funkcja": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(36100,45): warning C4244: "funkcja": konwersja z "int64_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(37740,24): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(37768,24): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(37796,24): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(37908,27): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(38096,28): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(38118,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(38123,29): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(38310,36): warning C4244: "funkcja": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(38313,36): warning C4244: "funkcja": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(38313,39): warning C4244: "funkcja": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(38322,32): warning C4244: "funkcja": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(38322,35): warning C4244: "funkcja": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(38518,9): warning C4244: "=": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(38620,15): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(38666,18): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(38930,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40255,33): warning C4244: "funkcja": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40275,72): warning C4244: "funkcja": konwersja z "__int64" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40299,52): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40300,54): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40323,76): warning C4244: "funkcja": konwersja z "__int64" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40386,33): warning C4244: "funkcja": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40400,40): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40401,38): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40540,57): warning C4244: "funkcja": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40627,50): warning C4244: "funkcja": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40629,49): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40682,41): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40763,27): warning C4267: "+=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40869,50): warning C4244: "funkcja": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40870,77): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40898,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40916,69): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40931,40): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40941,61): warning C4244: "funkcja": konwersja z "int64_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(40943,43): warning C4244: "=": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(41109,21): warning C4244: "=": konwersja z "int64_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(43343,46): warning C4244: "=": konwersja z "uintptr_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(43396,28): warning C4267: "+=": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45291,11): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45293,15): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45314,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45425,19): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45435,23): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45653,13): warning C4244: "=": konwersja z "double" do "int64_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45718,22): warning C4244: "funkcja": konwersja z "int64_t" do "double", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45767,39): warning C4244: "=": konwersja z "double" do "int64_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45805,15): warning C4244: "=": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45806,17): warning C4244: "=": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45807,15): warning C4244: "=": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45808,15): warning C4244: "=": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45809,15): warning C4244: "=": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45810,15): warning C4244: "=": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45811,16): warning C4244: "=": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45812,16): warning C4244: "=": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45813,16): warning C4244: "=": konwersja z "int64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45914,15): warning C4244: "=": konwersja z "int64_t" do "double", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45948,25): warning C4244: "=": konwersja z "double" do "int64_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(45994,21): warning C4244: "=": konwersja z "double" do "int64_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(46002,16): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(46007,16): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(46017,14): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(46023,11): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(46025,14): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(46043,15): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(46060,13): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(46076,15): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(46121,11): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(46132,25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(46136,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(46150,15): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(46164,15): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(46193,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(47504,25): warning C4244: "=": konwersja z "uint64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(47507,46): warning C4244: "funkcja": konwersja z "uint64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(47988,51): warning C4244: "funkcja": konwersja z "int64_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(48190,40): warning C4244: "funkcja": konwersja z "int64_t" do "int32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(48307,19): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(48332,48): warning C4244: "funkcja": konwersja z "uint64_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(48337,42): warning C4244: "=": konwersja z "uint64_t" do "uint16_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(48342,42): warning C4244: "=": konwersja z "uint64_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(48437,29): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(48443,25): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(48466,13): warning C4244: "=": konwersja z "int64_t" do "double", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(48470,15): warning C4244: "=": konwersja z "double" do "int64_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(48497,17): warning C4244: "=": konwersja z "int64_t" do "uint16_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(48501,30): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(48522,17): warning C4244: "=": konwersja z "int64_t" do "uint16_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(48541,17): warning C4244: "=": konwersja z "int64_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(48792,45): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(48793,44): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(49099,22): warning C4334: "<<": wynik 32-bitowe przesunięcia niejawnie skonwertowano do 64 bitów (czy 64-bitowe przesunięcie było zamierzone?)
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(49110,32): warning C4267: "=": konwersja z "size_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(49112,28): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(49233,18): warning C4244: "=": konwersja z "uint64_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(49234,22): warning C4244: "=": konwersja z "uint64_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(49237,24): warning C4244: "=": konwersja z "uint64_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(49522,29): warning C4244: "=": konwersja z "uint64_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(49529,15): warning C4244: "=": konwersja z "uint64_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(49549,18): warning C4244: "=": konwersja z "uint64_t" do "uint32_t", możliwa utrata danych
+C:\Users\ratko\Documents\--vortex-js\src\quickjs\libquickjs\quickjs.c(49700,19): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  libquickjs.vcxproj -> C:\Users\ratko\Documents\--vortex-js\src\quickjs\x64\Release\libquickjs.lib

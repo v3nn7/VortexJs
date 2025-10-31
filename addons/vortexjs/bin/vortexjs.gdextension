@@ -1,0 +1,9 @@
+[configuration]
+entry_symbol = "gdextension_library_init"
+compatibility_minimum = "4.2"
+
+[libraries]
+windows.64 = "res://addons/vortexjs/bin/vortexjs.dll"
+
+[dependencies]
+godot_version = "4.4"
